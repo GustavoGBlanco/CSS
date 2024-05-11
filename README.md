@@ -14,4 +14,7 @@ Los archivos css, terminan con la extensión *.css*
 
 ### Lecciones ###
 
-1. Leccion1-AgregarCSS: La primera sección explica y muestra ejemplos de como agregar estilos a una página HTML.
+1. Leccion1-AgregarCSS: La primera sección explica y muestra ejemplos de como agregar estilos a una página HTML. *Por favor buscar el siguiente archivo, allí encontrará la lección*.
+
+![Buscar esta leccion](https://github.com/GustavoGBlanco/CSS/assets/1201178/086052e1-b368-44be-877f-158c6f537e87)
+
