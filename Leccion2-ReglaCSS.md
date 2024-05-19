@@ -78,7 +78,7 @@ Todos los párrafos tendrán amarillo como color de fondo.
 
 🏁 Ejercicio 🏁 
 
-Complete las declaraciones de las regals CSS para poder ver el siguiente resultado:
+Complete las declaraciones de las reglas CSS para poder ver el siguiente resultado:
 
 ![Producto final](https://github.com/GustavoGBlanco/CSS/assets/1201178/4369daf3-29ab-42c2-a912-14b3c0ddf143)
 
