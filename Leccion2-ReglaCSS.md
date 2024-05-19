@@ -1,6 +1,6 @@
 ### Regla CSS ###
 
-![alt text](image.png)
+![Regla CSS](image.png)
 
 #### Regla ####
 
@@ -12,4 +12,66 @@
 
 #### Propiedad ####
 
-<p align="justify">Las propiedades son características visuales que tienen los elementos HTML Una declaración puede contener una o más propiedades, cada una con su respectivo valor y separadas por punto y coma.</p>
+<p align="justify">Las propiedades son características visuales que tienen los elementos HTML. Una declaración puede contener una o más propiedades, cada una con su respectivo valor y separadas por punto y coma.</p>
+
+#### Explicación #####
+
+⌨️ Código ⌨️
+
+*Regla* 
+
+`body {background-color: rgb(255, 0, 0);}`
+
+*Selector*
+
+`body` - Representa el contenido de un documento HTML.
+
+*Declaración*
+
+`{background-color: rgb(255, 0, 0);}` - Esta declaración contiene una propiedad y su valor.
+
+*Propiedad*
+
+`background-color` - Esta propiedad establece el color de fondo de un elemento HTML.
+
+*Valor*
+
+`rgb(255, 0, 0)` - Este valor es el color rojo.
+
+#### Ejemplos #####
+
+⌨️ Ejemplos - Código ⌨️
+
+`h1 {color: red;}`
+
+Todos los títulos con la etiqueta `h1` tendrán rojo como color.
+
+`p {background-color: blue;}`
+
+Todos los párrafos tendrán azul como color de fondo.
+
+`h1 {color: green;}`
+
+Todos los títulos con la etiqueta `h1` tendrán verde como color.
+
+`p {background-color: yellow;}`
+
+Todos los párrafos tendrán amarillo como color de fondo.
+
+🖥️ Ejemplos - funcional 🖥️
+
+`h1 {color: red;}`
+
+[hacer click para ver el ejemplo funcional](https://plnkr.co/edit/VZbQR74F8B9fi8Nw?open=lib%2Fscript.js)
+
+`p {background-color: blue;}`
+
+[hacer click para ver el ejemplo funcional](https://plnkr.co/edit/4Y5HSD4ktP64AxPk?open=lib%2Fscript.js)
+
+`h1 {color: green;}`
+
+[hacer click para ver el ejemplo funcional](https://plnkr.co/edit/s49hh0TAK4uqmjUX)
+
+`p {background-color: yellow;}`
+
+[hacer click para ver el ejemplo funcional](https://plnkr.co/edit/Bjqi4QBihg17y9DZ)
