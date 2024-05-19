@@ -81,6 +81,7 @@ Todos los párrafos tendrán amarillo como color de fondo.
 Complete las declaraciones de las regals CSS para poder ver el siguiente resultado:
 ![Producto final](https://github.com/GustavoGBlanco/CSS/assets/1201178/4369daf3-29ab-42c2-a912-14b3c0ddf143)
 
+
 Complete las reglas CSS necesarias
 [hacer click para ir al ejercicio](https://plnkr.co/edit/de1goE5lMGV0UU6M)
 
