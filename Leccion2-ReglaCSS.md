@@ -32,7 +32,7 @@
 
 *Propiedad*
 
-`background-color` - Esta propiedad establece el color de fondo de un elemento HTML.
+`background-color` - Esta propiedad establece el color de fondo de un elemento HTML, en este caso, el color de fondo de todo el contenido HTML, ya que esta propiedad esta afectando al elemento `body` según la *regla*.
 
 *Valor*
 
