@@ -32,11 +32,13 @@
 
 *Propiedad*
 
-`background-color` - Esta propiedad establece el color de fondo de un elemento HTML, en este caso, el color de fondo de todo el contenido HTML, ya que esta propiedad esta afectando al elemento `body` según la *regla*.
+`background-color` - Esta propiedad establece el color de fondo de un elemento HTML.
 
 *Valor*
 
 `rgb(255, 0, 0)` - Este valor es el color rojo.
+
+En este caso, la *regla* anteriormente descrita esta afectando a todo el elemento `body`, es decir, a todo mi contenido de la página HTML y le cambia la propiedad de `background-color`, es decir, el color de fondo a un color `rgb(255, 0, 0)`, es decir, un color rojo. Hay diferentes formas de denotar un color dentro de CSS, las veremos en la proxima lección.
 
 #### Ejemplos #####
 
