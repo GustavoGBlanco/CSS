@@ -18,3 +18,4 @@ Los archivos css, terminan con la extensión *.css*
 
 ![Buscar esta leccion](https://github.com/GustavoGBlanco/CSS/assets/1201178/086052e1-b368-44be-877f-158c6f537e87)
 
+2. Leccion2-ReglaCSS: Explica las reglas CSS, introducción a selectores, muestra ejemplo y plantea un ejercicio.
