@@ -62,16 +62,27 @@ Todos los párrafos tendrán amarillo como color de fondo.
 
 `h1 {color: red;}`
 
-[hacer click para ver el ejemplo funcional](https://plnkr.co/edit/VZbQR74F8B9fi8Nw?open=lib%2Fscript.js)
+[hacer click para ver el ejemplo 1 funcional](https://plnkr.co/edit/VZbQR74F8B9fi8Nw?open=lib%2Fscript.js)
 
 `p {background-color: blue;}`
 
-[hacer click para ver el ejemplo funcional](https://plnkr.co/edit/4Y5HSD4ktP64AxPk?open=lib%2Fscript.js)
+[hacer click para ver el ejemplo 2 funcional](https://plnkr.co/edit/4Y5HSD4ktP64AxPk?open=lib%2Fscript.js)
 
 `h1 {color: green;}`
 
-[hacer click para ver el ejemplo funcional](https://plnkr.co/edit/s49hh0TAK4uqmjUX)
+[hacer click para ver el ejemplo 3 funcional](https://plnkr.co/edit/s49hh0TAK4uqmjUX)
 
 `p {background-color: yellow;}`
 
-[hacer click para ver el ejemplo funcional](https://plnkr.co/edit/Bjqi4QBihg17y9DZ)
+[hacer click para ver el ejemplo 4 funcional](https://plnkr.co/edit/Bjqi4QBihg17y9DZ)
+
+🏁 Ejercicio 🏁 
+
+Complete las declaraciones de las regals CSS para poder ver el siguiente resultado:
+![Producto final](https://github.com/GustavoGBlanco/CSS/assets/1201178/4369daf3-29ab-42c2-a912-14b3c0ddf143)
+
+Complete las reglas CSS necesarias
+[hacer click para ir al ejercicio](https://plnkr.co/edit/de1goE5lMGV0UU6M)
+
+Solución al ejercicio
+[hacer click para ver la solución al ejercicio](https://plnkr.co/edit/5amRbTM5nkI8pw6P?preview)
